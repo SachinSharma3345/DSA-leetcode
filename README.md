@@ -41,12 +41,13 @@ This project is licensed under the [MIT License](LICENSE).
 
 <!-- AUTO-GEN: START (do not remove or edit this line) -->
 ## 📊 Problem Count
-**Total Problems Solved:** 2
+**Total Problems Solved:** 3
 
 ## 📚 Problem Index
 
 | # | Folder | Description | Solution |
 |---:|--------|-------------|----------|
-| 1 | [191-number-of-1-bits](191-number-of-1-bits) | <h2><a href="https://leetcode.com/problems/number-of-1-bits">Number of 1 Bits</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>Given a positive integer <code>n</code>, write a function that returns the number of <span data-keyword="set-bit">set bits</span> in its binary representation (also known as the <a href="http://en.wikipedia.org/wiki/Hamming_weight" target="_blank">Hamming weight</a>).</p> | [number-of-1-bits.cpp](191-number-of-1-bits/number-of-1-bits.cpp) |
-| 2 | [633-sum-of-square-numbers](633-sum-of-square-numbers) | <h2><a href="https://leetcode.com/problems/sum-of-square-numbers">Sum of Square Numbers</a></h2> <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' /><hr><p>Given a non-negative integer <code>c</code>, decide whether there&#39;re two integers <code>a</code> and <code>b</code> such that <code>a<sup>2</sup> + b<sup>2</sup> = c</code>.</p> | [sum-of-square-numbers.cpp](633-sum-of-square-numbers/sum-of-square-numbers.cpp) |
+| 1 | [1-two-sum](1-two-sum) | <h2><a href="https://leetcode.com/problems/two-sum">Two Sum</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>Given an array of integers <code>nums</code>&nbsp;and an integer <code>target</code>, return <em>indices of the two numbers such that they add up to <code>target</code></em>.</p> | [two-sum.cpp](1-two-sum/two-sum.cpp) |
+| 2 | [191-number-of-1-bits](191-number-of-1-bits) | <h2><a href="https://leetcode.com/problems/number-of-1-bits">Number of 1 Bits</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>Given a positive integer <code>n</code>, write a function that returns the number of <span data-keyword="set-bit">set bits</span> in its binary representation (also known as the <a href="http://en.wikipedia.org/wiki/Hamming_weight" target="_blank">Hamming weight</a>).</p> | [number-of-1-bits.cpp](191-number-of-1-bits/number-of-1-bits.cpp) |
+| 3 | [633-sum-of-square-numbers](633-sum-of-square-numbers) | <h2><a href="https://leetcode.com/problems/sum-of-square-numbers">Sum of Square Numbers</a></h2> <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' /><hr><p>Given a non-negative integer <code>c</code>, decide whether there&#39;re two integers <code>a</code> and <code>b</code> such that <code>a<sup>2</sup> + b<sup>2</sup> = c</code>.</p> | [sum-of-square-numbers.cpp](633-sum-of-square-numbers/sum-of-square-numbers.cpp) |
 <!-- AUTO-GEN: END -->
