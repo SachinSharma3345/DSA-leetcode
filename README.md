@@ -41,7 +41,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 <!-- AUTO-GEN: START (do not remove or edit this line) -->
 ## 📊 Problem Count
-**Total Problems Solved:** 4
+**Total Problems Solved:** 5
 
 ## 📚 Problem Index
 
@@ -51,4 +51,5 @@ This project is licensed under the [MIT License](LICENSE).
 | 2 | [41-first-missing-positive](41-first-missing-positive) | <h2><a href="https://leetcode.com/problems/first-missing-positive">First Missing Positive</a></h2> <img src='https://img.shields.io/badge/Difficulty-Hard-red' alt='Difficulty: Hard' /><hr><p>Given an unsorted integer array <code>nums</code>. Return the <em>smallest positive integer</em> that is <em>not present</em> in <code>nums</code>.</p> | [first-missing-positive.cpp](41-first-missing-positive/first-missing-positive.cpp) |
 | 3 | [191-number-of-1-bits](191-number-of-1-bits) | <h2><a href="https://leetcode.com/problems/number-of-1-bits">Number of 1 Bits</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>Given a positive integer <code>n</code>, write a function that returns the number of <span data-keyword="set-bit">set bits</span> in its binary representation (also known as the <a href="http://en.wikipedia.org/wiki/Hamming_weight" target="_blank">Hamming weight</a>).</p> | [number-of-1-bits.cpp](191-number-of-1-bits/number-of-1-bits.cpp) |
 | 4 | [633-sum-of-square-numbers](633-sum-of-square-numbers) | <h2><a href="https://leetcode.com/problems/sum-of-square-numbers">Sum of Square Numbers</a></h2> <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' /><hr><p>Given a non-negative integer <code>c</code>, decide whether there&#39;re two integers <code>a</code> and <code>b</code> such that <code>a<sup>2</sup> + b<sup>2</sup> = c</code>.</p> | [sum-of-square-numbers.cpp](633-sum-of-square-numbers/sum-of-square-numbers.cpp) |
+| 5 | [1917-maximum-average-pass-ratio](1917-maximum-average-pass-ratio) | <h2><a href="https://leetcode.com/problems/maximum-average-pass-ratio">Maximum Average Pass Ratio</a></h2> <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' /><hr><p>There is a school that has classes of students and each class will be having a final exam. You are given a 2D integer array <code>classes</code>, where <code>classes[i] = [pass<sub>i</sub>, total<sub>i</sub>]</code>. You know beforehand that in the <code>i<sup>th</sup></code> class, there are <code>total<sub>i</sub></code> total students, but only <code>pass<sub>i</sub></code> number of students will pass the exam.</p> | [maximum-average-pass-ratio.cpp](1917-maximum-average-pass-ratio/maximum-average-pass-ratio.cpp) |
 <!-- AUTO-GEN: END -->
