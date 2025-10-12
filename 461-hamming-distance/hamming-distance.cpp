@@ -4,7 +4,8 @@ public:
         int z = x^y;
         int count = 0;
         while(z){
-             count += (z & 1);
+            if(z&1)
+            count++;
             z = z>>1;
         }
         return count;
