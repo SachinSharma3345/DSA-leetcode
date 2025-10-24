@@ -41,7 +41,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 <!-- AUTO-GEN: START (do not remove or edit this line) -->
 ## 📊 Problem Count
-**Total Problems Solved:** 73
+**Total Problems Solved:** 74
 
 ## 📚 Problem Index
 
@@ -120,4 +120,5 @@ This project is licensed under the [MIT License](LICENSE).
 | 71 | [3830-find-closest-person](3830-find-closest-person) | <h2><a href="https://leetcode.com/problems/find-closest-person">Find Closest Person</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p data-end="116" data-start="0">You are given three integers <code data-end="33" data-start="30">x</code>, <code data-end="38" data-start="35">y</code>, and <code data-end="47" data-start="44">z</code>, representing the positions of three people on a number line:</p> | [find-closest-person.cpp](3830-find-closest-person/find-closest-person.cpp) |
 | 72 | [3851-find-sum-of-array-product-of-magical-sequences](3851-find-sum-of-array-product-of-magical-sequences) | <h2><a href="https://leetcode.com/problems/find-sum-of-array-product-of-magical-sequences">Find Sum of Array Product of Magical Sequences</a></h2> <img src='https://img.shields.io/badge/Difficulty-Hard-red' alt='Difficulty: Hard' /><hr><p>You are given two integers, <code>m</code> and <code>k</code>, and an integer array <code>nums</code>.</p> | [find-sum-of-array-product-of-magical-sequences.cpp](3851-find-sum-of-array-product-of-magical-sequences/find-sum-of-array-product-of-magical-sequences.cpp) |
 | 73 | [3872-find-most-frequent-vowel-and-consonant](3872-find-most-frequent-vowel-and-consonant) | <h2><a href="https://leetcode.com/problems/find-most-frequent-vowel-and-consonant">Find Most Frequent Vowel and Consonant</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>You are given a string <code>s</code> consisting of lowercase English letters (<code>&#39;a&#39;</code> to <code>&#39;z&#39;</code>). </p> | [find-most-frequent-vowel-and-consonant.cpp](3872-find-most-frequent-vowel-and-consonant/find-most-frequent-vowel-and-consonant.cpp) |
+| 74 | [4068-sum-of-elements-with-frequency-divisible-by-k](4068-sum-of-elements-with-frequency-divisible-by-k) | <h2><a href="https://leetcode.com/problems/sum-of-elements-with-frequency-divisible-by-k">Sum of Elements With Frequency Divisible by K</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>You are given an integer array <code>nums</code> and an integer <code>k</code>.</p> | [sum-of-elements-with-frequency-divisible-by-k.cpp](4068-sum-of-elements-with-frequency-divisible-by-k/sum-of-elements-with-frequency-divisible-by-k.cpp) |
 <!-- AUTO-GEN: END -->
