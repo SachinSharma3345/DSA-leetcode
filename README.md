@@ -41,7 +41,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 <!-- AUTO-GEN: START (do not remove or edit this line) -->
 ## 📊 Problem Count
-**Total Problems Solved:** 231
+**Total Problems Solved:** 232
 
 ## 📚 Problem Index
 
@@ -278,4 +278,5 @@ This project is licensed under the [MIT License](LICENSE).
 | 229 | [4056-longest-balanced-substring-ii](4056-longest-balanced-substring-ii) | <h2><a href="https://leetcode.com/problems/longest-balanced-substring-ii">Longest Balanced Substring II</a></h2> <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' /><hr><p>You are given a string <code>s</code> consisting only of the characters <code>&#39;a&#39;</code>, <code>&#39;b&#39;</code>, and <code>&#39;c&#39;</code>.</p> | [longest-balanced-substring-ii.cpp](4056-longest-balanced-substring-ii/longest-balanced-substring-ii.cpp) |
 | 230 | [4068-sum-of-elements-with-frequency-divisible-by-k](4068-sum-of-elements-with-frequency-divisible-by-k) | <h2><a href="https://leetcode.com/problems/sum-of-elements-with-frequency-divisible-by-k">Sum of Elements With Frequency Divisible by K</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>You are given an integer array <code>nums</code> and an integer <code>k</code>.</p> | [sum-of-elements-with-frequency-divisible-by-k.cpp](4068-sum-of-elements-with-frequency-divisible-by-k/sum-of-elements-with-frequency-divisible-by-k.cpp) |
 | 231 | [4115-minimum-distance-between-three-equal-elements-i](4115-minimum-distance-between-three-equal-elements-i) | <h2><a href="https://leetcode.com/problems/minimum-distance-between-three-equal-elements-i">Minimum Distance Between Three Equal Elements I</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>You are given an integer array <code>nums</code>.</p> | [minimum-distance-between-three-equal-elements-i.cpp](4115-minimum-distance-between-three-equal-elements-i/minimum-distance-between-three-equal-elements-i.cpp) |
+| 232 | [4119-minimum-distance-between-three-equal-elements-ii](4119-minimum-distance-between-three-equal-elements-ii) | <h2><a href="https://leetcode.com/problems/minimum-distance-between-three-equal-elements-ii">Minimum Distance Between Three Equal Elements II</a></h2> <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' /><hr><p>You are given an integer array <code>nums</code>.</p> | [minimum-distance-between-three-equal-elements-ii.cpp](4119-minimum-distance-between-three-equal-elements-ii/minimum-distance-between-three-equal-elements-ii.cpp) |
 <!-- AUTO-GEN: END -->
