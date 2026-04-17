@@ -41,7 +41,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 <!-- AUTO-GEN: START (do not remove or edit this line) -->
 ## 📊 Problem Count
-**Total Problems Solved:** 236
+**Total Problems Solved:** 237
 
 ## 📚 Problem Index
 
@@ -283,4 +283,5 @@ This project is licensed under the [MIT License](LICENSE).
 | 234 | [4068-sum-of-elements-with-frequency-divisible-by-k](4068-sum-of-elements-with-frequency-divisible-by-k) | <h2><a href="https://leetcode.com/problems/sum-of-elements-with-frequency-divisible-by-k">Sum of Elements With Frequency Divisible by K</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>You are given an integer array <code>nums</code> and an integer <code>k</code>.</p> | [sum-of-elements-with-frequency-divisible-by-k.cpp](4068-sum-of-elements-with-frequency-divisible-by-k/sum-of-elements-with-frequency-divisible-by-k.cpp) |
 | 235 | [4115-minimum-distance-between-three-equal-elements-i](4115-minimum-distance-between-three-equal-elements-i) | <h2><a href="https://leetcode.com/problems/minimum-distance-between-three-equal-elements-i">Minimum Distance Between Three Equal Elements I</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>You are given an integer array <code>nums</code>.</p> | [minimum-distance-between-three-equal-elements-i.cpp](4115-minimum-distance-between-three-equal-elements-i/minimum-distance-between-three-equal-elements-i.cpp) |
 | 236 | [4119-minimum-distance-between-three-equal-elements-ii](4119-minimum-distance-between-three-equal-elements-ii) | <h2><a href="https://leetcode.com/problems/minimum-distance-between-three-equal-elements-ii">Minimum Distance Between Three Equal Elements II</a></h2> <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' /><hr><p>You are given an integer array <code>nums</code>.</p> | [minimum-distance-between-three-equal-elements-ii.cpp](4119-minimum-distance-between-three-equal-elements-ii/minimum-distance-between-three-equal-elements-ii.cpp) |
+| 237 | [4139-minimum-absolute-distance-between-mirror-pairs](4139-minimum-absolute-distance-between-mirror-pairs) | <h2><a href="https://leetcode.com/problems/minimum-absolute-distance-between-mirror-pairs">Minimum Absolute Distance Between Mirror Pairs</a></h2> <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' /><hr><p>You are given an integer array <code>nums</code>.</p> | [minimum-absolute-distance-between-mirror-pairs.cpp](4139-minimum-absolute-distance-between-mirror-pairs/minimum-absolute-distance-between-mirror-pairs.cpp) |
 <!-- AUTO-GEN: END -->
