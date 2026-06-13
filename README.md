@@ -41,7 +41,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 <!-- AUTO-GEN: START (do not remove or edit this line) -->
 ## 📊 Problem Count
-**Total Problems Solved:** 288
+**Total Problems Solved:** 289
 
 ## 📚 Problem Index
 
@@ -335,4 +335,5 @@ This project is licensed under the [MIT License](LICENSE).
 | 286 | [4119-minimum-distance-between-three-equal-elements-ii](4119-minimum-distance-between-three-equal-elements-ii) | <h2><a href="https://leetcode.com/problems/minimum-distance-between-three-equal-elements-ii">Minimum Distance Between Three Equal Elements II</a></h2> <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' /><hr><p>You are given an integer array <code>nums</code>.</p> | [minimum-distance-between-three-equal-elements-ii.cpp](4119-minimum-distance-between-three-equal-elements-ii/minimum-distance-between-three-equal-elements-ii.cpp) |
 | 287 | [4139-minimum-absolute-distance-between-mirror-pairs](4139-minimum-absolute-distance-between-mirror-pairs) | <h2><a href="https://leetcode.com/problems/minimum-absolute-distance-between-mirror-pairs">Minimum Absolute Distance Between Mirror Pairs</a></h2> <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' /><hr><p>You are given an integer array <code>nums</code>.</p> | [minimum-absolute-distance-between-mirror-pairs.cpp](4139-minimum-absolute-distance-between-mirror-pairs/minimum-absolute-distance-between-mirror-pairs.cpp) |
 | 288 | [4168-mirror-distance-of-an-integer](4168-mirror-distance-of-an-integer) | <h2><a href="https://leetcode.com/problems/mirror-distance-of-an-integer">Mirror Distance of an Integer</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>You are given an integer <code>n</code>.</p> | [mirror-distance-of-an-integer.cpp](4168-mirror-distance-of-an-integer/mirror-distance-of-an-integer.cpp) |
+| 289 | [4216-weighted-word-mapping](4216-weighted-word-mapping) | <h2><a href="https://leetcode.com/problems/weighted-word-mapping">Weighted Word Mapping</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>You are given an array of strings <code>words</code>, where each string represents a word containing lowercase English letters.</p> | [weighted-word-mapping.cpp](4216-weighted-word-mapping/weighted-word-mapping.cpp) |
 <!-- AUTO-GEN: END -->
