@@ -41,7 +41,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 <!-- AUTO-GEN: START (do not remove or edit this line) -->
 ## 📊 Problem Count
-**Total Problems Solved:** 326
+**Total Problems Solved:** 327
 
 ## 📚 Problem Index
 
@@ -373,4 +373,5 @@ This project is licensed under the [MIT License](LICENSE).
 | 324 | [4139-minimum-absolute-distance-between-mirror-pairs](4139-minimum-absolute-distance-between-mirror-pairs) | <h2><a href="https://leetcode.com/problems/minimum-absolute-distance-between-mirror-pairs">Minimum Absolute Distance Between Mirror Pairs</a></h2> <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' /><hr><p>You are given an integer array <code>nums</code>.</p> | [minimum-absolute-distance-between-mirror-pairs.cpp](4139-minimum-absolute-distance-between-mirror-pairs/minimum-absolute-distance-between-mirror-pairs.cpp) |
 | 325 | [4168-mirror-distance-of-an-integer](4168-mirror-distance-of-an-integer) | <h2><a href="https://leetcode.com/problems/mirror-distance-of-an-integer">Mirror Distance of an Integer</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>You are given an integer <code>n</code>.</p> | [mirror-distance-of-an-integer.cpp](4168-mirror-distance-of-an-integer/mirror-distance-of-an-integer.cpp) |
 | 326 | [4216-weighted-word-mapping](4216-weighted-word-mapping) | <h2><a href="https://leetcode.com/problems/weighted-word-mapping">Weighted Word Mapping</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>You are given an array of strings <code>words</code>, where each string represents a word containing lowercase English letters.</p> | [weighted-word-mapping.cpp](4216-weighted-word-mapping/weighted-word-mapping.cpp) |
+| 327 | [4220-minimum-operations-to-sort-a-string](4220-minimum-operations-to-sort-a-string) | <h2><a href="https://leetcode.com/problems/minimum-operations-to-sort-a-string">Minimum Operations to Sort a String</a></h2> <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' /><hr><p data-end="244" data-start="156">You are given a string <code>s</code> consisting of lowercase English letters.</p> | [minimum-operations-to-sort-a-string.cpp](4220-minimum-operations-to-sort-a-string/minimum-operations-to-sort-a-string.cpp) |
 <!-- AUTO-GEN: END -->
